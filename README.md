@@ -1,5 +1,5 @@
 # Transformée de Fourier Discrète (DFT/FFT) en Python pur
-
+### Projet académique réaliser dans le cadre du cours Outils Maths pour l'informatique (L3 informatique)
 Projet éducatif réalisé sans aucune bibliothèque externe (pas de NumPy, pas de SciPy).
 
 Implémentations 1D et 2D avec :
